@@ -24,7 +24,6 @@ ReactDOM.render(
     //  document.getElementById('root')
      <div>
         <Hello type="Good Morning" name = "Rick" />
-        <Hello type="Good Night" name = "Marina" />
     </div>,
      document.getElementById('root')
 )
