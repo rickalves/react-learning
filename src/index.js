@@ -11,7 +11,7 @@ import ReactDOM from 'react-dom'
 // import { GoodAfternoon, GoodEvening } from './components/Multiple'
 // import Multiple from './components/Multiple'
 // import Hello from './components/Hello'
-import List from './components/Parent'
+import Mother from './components/Parent'
 
 ReactDOM.render(
     // <div>
@@ -27,7 +27,7 @@ ReactDOM.render(
     //     <Hello type="Good Morning" name = "Rick" />
     // </div>,
     <div>
-        <List name = "Front-End Technologies" />
+        <Mother firstName="Mary" lastName="Zunkenbarg Cruze"/>
     </div>,
      document.getElementById('root')
 )
