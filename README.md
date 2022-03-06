@@ -5,8 +5,6 @@
  - Componentes JSX;
  - Componentes de classe;
  - Componentes funcionais;
- - Rotas como o React Router DOM;
- - Ciclo de vida de componentes.
 
 
 
